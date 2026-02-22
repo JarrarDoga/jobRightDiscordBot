@@ -1,0 +1,7 @@
+discord.py==2.4.0
+beautifulsoup4==4.12.3
+lxml==5.2.2
+python-dotenv==1.0.1
+google-api-python-client==2.141.0
+google-auth==2.34.0
+google-auth-oauthlib==1.2.1
