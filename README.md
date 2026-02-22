@@ -1,6 +1,6 @@
 # Job Signal Bot (Gmail → Discord)
 
-Discord bot that polls discord for jobright listings digest emails, parses for jobs listed inside, posts each job
+Discord bot that polls gmail for jobright listings digest emails, parses for jobs listed inside, posts each job
 into a discord channel in a neat format
 
 ---
