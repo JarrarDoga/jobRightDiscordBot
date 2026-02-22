@@ -18,14 +18,14 @@ Sales Development Associate
 - source: Jobright  
 - link: Job link
 
-create a google cloud project, get Gmail API
-Create OAuth Credentials, application type: Desktop App, add credentials.json to folder
-run authtoken.py to get token.json
-create discord bot, set permissions to read messages, send messages, embed links, invite bot
-pip install -r requirements.txt
-make a .env and paste following
+# create a google cloud project, get Gmail API
+# Create OAuth Credentials, application type: Desktop App, add credentials.json to folder
+# run authtoken.py to get token.json
+# create discord bot, set permissions to read messages, send messages, embed links, invite bot
+# pip install -r requirements.txt
+# make a .env and paste following
 
-DISCORD_BOT_TOKEN=
-DISCORD_CHANNEL_ID=
-GMAIL_LABEL_NAME=
+# DISCORD_BOT_TOKEN=
+# DISCORD_CHANNEL_ID=
+# GMAIL_LABEL_NAME=
 
